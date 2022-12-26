@@ -20,11 +20,6 @@
     <td>系統</td><td>macOS Ventura 13.1 + OpenCore 0.8.7</td>
   </tr>  
 </table>
-<img src="https://user-images.githubusercontent.com/79300809/202965898-565c6d66-37f4-4a2b-9114-02759e458e31.png">
+<img src="https://user-images.githubusercontent.com/79300809/209513804-4a4a19a6-5a8e-4bd0-8cdb-423ee18dd5a0.png">
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202965874-cd430d18-c728-4703-b974-68fa9298f7d7.jpg"><br>
-
-![截圖 2022-12-26 下午2 46 27](https://user-images.githubusercontent.com/79300809/209513804-4a4a19a6-5a8e-4bd0-8cdb-423ee18dd5a0.png)
-
-
-
 <img width="434" alt="截圖 2022-11-21 下午12 42 44" src="https://user-images.githubusercontent.com/79300809/202967318-52cc2fdf-12f3-45a3-8fe4-47ea210cbf35.png">
