@@ -20,8 +20,10 @@
     <td>系統</td><td>macOS Ventura 13.2.1 + OpenCore 0.9.0</td>
   </tr>  
 </table>
-<img width="434" alt="截圖 2023-03-20 上午9 38 31" src="https://user-images.githubusercontent.com/79300809/226227608-2614bc97-7dad-4f3d-b504-97d2cc0feb98.png"><br>
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202965874-cd430d18-c728-4703-b974-68fa9298f7d7.jpg"><br>
+
 <img width="434" alt="截圖 2022-11-21 下午12 42 44" src="https://user-images.githubusercontent.com/79300809/202967318-52cc2fdf-12f3-45a3-8fe4-47ea210cbf35.png"><br>
+
+<img width="434" alt="截圖 2023-03-20 上午9 38 31" src="https://user-images.githubusercontent.com/79300809/226227608-2614bc97-7dad-4f3d-b504-97d2cc0feb98.png"><br>
 
 <img width="434" alt="截圖 2023-03-20 上午9 46 58" src="https://user-images.githubusercontent.com/79300809/226228432-cdb4b049-3c21-4793-81bc-0558acf7edd2.png"><br>
