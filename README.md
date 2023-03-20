@@ -17,7 +17,7 @@
     <td>硬碟</td><td>ST1000LM 1000GB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Ventura 13.1 + OpenCore 0.8.7</td>
+    <td>系統</td><td>macOS Ventura 13.2.1 + OpenCore 0.9.0</td>
   </tr>  
 </table>
 <img src="https://user-images.githubusercontent.com/79300809/209513804-4a4a19a6-5a8e-4bd0-8cdb-423ee18dd5a0.png">
