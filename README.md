@@ -26,11 +26,7 @@
 
 <img width="434" alt="截圖 2023-03-20 上午9 38 31" src="https://user-images.githubusercontent.com/79300809/226227608-2614bc97-7dad-4f3d-b504-97d2cc0feb98.png"><br>
 
-<img width="434" alt="截圖 2023-03-20 上午9 46 58" src="https://user-images.githubusercontent.com/79300809/226228432-cdb4b049-3c21-4793-81bc-0558acf7edd2.png"><br>
-
-<img width="450" alt="截圖 2023-10-23 下午3 38 53" src="https://github.com/michelle0812/DELL-OptiPlex-7070-ULTRA/assets/79300809/102d766c-92af-4d8e-a5de-3f5aab671753">
-
-<img width="450" alt="截圖 2023-10-23 下午3 40 22" src="https://github.com/michelle0812/DELL-OptiPlex-7070-ULTRA/assets/79300809/f15f31ab-a084-42e0-8196-cd8160a110a8">
-<img width="450" alt="截圖 2023-10-23 下午3 40 26" src="https://github.com/michelle0812/DELL-OptiPlex-7070-ULTRA/assets/79300809/55eee791-b449-455c-8196-d086ae7a731b">
-<img width="450" alt="截圖 2023-10-23 下午3 40 18" src="https://github.com/michelle0812/DELL-OptiPlex-7070-ULTRA/assets/79300809/6901dad1-7b56-44ae-bb15-f316da83bb12">
-<img width="450" alt="截圖 2023-10-23 下午3 40 05" src="https://github.com/michelle0812/DELL-OptiPlex-7070-ULTRA/assets/79300809/768d948b-07ac-44d3-9159-f656d87db4e6">
+<img width="450" alt="截圖 2023-10-23 下午3 40 22" src="https://github.com/michelle0812/DELL-OptiPlex-7070-ULTRA/assets/79300809/f15f31ab-a084-42e0-8196-cd8160a110a8"><br>
+<img width="450" alt="截圖 2023-10-23 下午3 40 26" src="https://github.com/michelle0812/DELL-OptiPlex-7070-ULTRA/assets/79300809/55eee791-b449-455c-8196-d086ae7a731b"><br>
+<img width="450" alt="截圖 2023-10-23 下午3 40 18" src="https://github.com/michelle0812/DELL-OptiPlex-7070-ULTRA/assets/79300809/6901dad1-7b56-44ae-bb15-f316da83bb12"><br>
+<img width="450" alt="截圖 2023-10-23 下午3 40 05" src="https://github.com/michelle0812/DELL-OptiPlex-7070-ULTRA/assets/79300809/768d948b-07ac-44d3-9159-f656d87db4e6"><br>
