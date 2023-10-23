@@ -23,9 +23,6 @@
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202965874-cd430d18-c728-4703-b974-68fa9298f7d7.jpg"><br>
 
 <img width="434" alt="截圖 2022-11-21 下午12 42 44" src="https://user-images.githubusercontent.com/79300809/202967318-52cc2fdf-12f3-45a3-8fe4-47ea210cbf35.png"><br>
-
-<img width="434" alt="截圖 2023-03-20 上午9 38 31" src="https://user-images.githubusercontent.com/79300809/226227608-2614bc97-7dad-4f3d-b504-97d2cc0feb98.png"><br>
-
 <img width="450" alt="截圖 2023-10-23 下午3 40 22" src="https://github.com/michelle0812/DELL-OptiPlex-7070-ULTRA/assets/79300809/f15f31ab-a084-42e0-8196-cd8160a110a8"><br>
 <img width="450" alt="截圖 2023-10-23 下午3 40 26" src="https://github.com/michelle0812/DELL-OptiPlex-7070-ULTRA/assets/79300809/55eee791-b449-455c-8196-d086ae7a731b"><br>
 <img width="450" alt="截圖 2023-10-23 下午3 40 18" src="https://github.com/michelle0812/DELL-OptiPlex-7070-ULTRA/assets/79300809/6901dad1-7b56-44ae-bb15-f316da83bb12"><br>
