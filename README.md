@@ -23,7 +23,7 @@
     <td>Disable CFG-Lock</td><td>使用GRUBShell setup_var 0x6F0 0x0</td>
   </tr>  
  <tr>
-    <td>DVMT 64MB</td><td>使用GRUBShell setup_var 0xa13 0x2</td>
+    <td>DVMT 64MB</td><td>setup_var 0xa13 0x2</td>
   </tr>  
 </table>
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202965874-cd430d18-c728-4703-b974-68fa9298f7d7.jpg"><br>
