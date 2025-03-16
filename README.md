@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>處理器</td><td>Intel(R) Core(TM) i5-8265U Kaby Lake</td>
+    <td>處理器</td><td>Intel(R) Core(TM) i5-8265U Whiskey Lake</td>
   </tr>
   <tr>
     <td>主機板</td><td>DELL</td>
