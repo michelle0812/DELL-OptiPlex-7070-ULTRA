@@ -19,6 +19,12 @@
   <tr>
     <td>系統</td><td>macOS Sequoia 15.3.2 + OpenCore 1.0.5</td>
   </tr>  
+ <tr>
+    <td>Disable CFG-Lock</td>使用GRUBShell setup_var 0x6F0 0x0<td></td>
+  </tr>  
+ <tr>
+    <td>DVMT 64MB</td>使用GRUBShell setup_var 0xa13 0x2 <td></td>
+  </tr>  
 </table>
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202965874-cd430d18-c728-4703-b974-68fa9298f7d7.jpg"><br>
 <img width="434" alt="截圖 2022-11-21 下午12 42 44" src="https://user-images.githubusercontent.com/79300809/202967318-52cc2fdf-12f3-45a3-8fe4-47ea210cbf35.png"><br>
